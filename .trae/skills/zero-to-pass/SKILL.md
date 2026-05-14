@@ -3,7 +3,7 @@ name: "zero-to-pass"
 description: "Generates zero-to-pass exam review materials for STEM courses from past exam papers. Invoke when user needs exam crash-course review or submits exam papers for study material generation."
 ---
 
-# 理工科期末速成复习资料生成
+# 期末周速成 SKILL
 
 ## 适用课程
 

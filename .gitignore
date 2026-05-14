@@ -3,7 +3,7 @@
 Thumbs.db
 desktop.ini
 
-# IDE 配置（但保留 Trae skills 相关文件）
+# IDE 配置
 .vscode/
 .idea/
 *.swp
@@ -17,8 +17,8 @@ temp/
 # Git
 *.orig
 
-# 测试试卷（不上传）
+# 测试试卷
 试卷*.md
 
-# 生成的复习资料（不上传）
+# 生成的复习资料
 《*》复习资料*.md
