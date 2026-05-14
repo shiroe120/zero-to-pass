@@ -1,0 +1,18 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 配置（但保留 Trae skills 相关文件）
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志和临时文件
+*.log
+*.tmp
+temp/
+
+# Git
+*.orig
