@@ -48,7 +48,6 @@
 │   └── skills/
 │       └── zero-to-pass/
 │           └── SKILL.md       # 核心技能定义文件
-├── SKILL描述.md                # 技能原始需求文档
 ├── README.md                   # 本文件
 └── .gitignore
 ```
